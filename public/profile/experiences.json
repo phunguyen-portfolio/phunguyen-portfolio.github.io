@@ -1,0 +1,26 @@
+{
+    "experiences": [
+        {
+            "title": "Accounting Intern",
+            "subtitle": "Mitsubishi Corporation",
+            "workType": "",
+            "workDescription": [
+            
+                
+            ],
+            "dateText": "Sep 2021 - Present"
+        },
+        
+        {
+            "title": "Accounting Intern",
+            "subtitle": "Thien An Construction",
+            "workType": "",
+            "workDescription": [
+                "Provided support to accounting department, assisted with data entry, checked and traced financial documents"
+              
+            ],
+            "dateText": "May 2019 - July 2019"
+        }
+        
+    ]
+}

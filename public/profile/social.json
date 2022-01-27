@@ -1,0 +1,13 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/phunhm/"
+        },
+      
+        {
+            "network" : "email",
+            "href": "mailto:phunguyen290699@gmail.com"
+        }
+    ]
+}

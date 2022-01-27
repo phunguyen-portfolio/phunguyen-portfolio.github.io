@@ -1,0 +1,20 @@
+{
+    "education":[
+        {
+            "title": "2021 - Present",
+            "cardTitle": "ACCA",
+            "cardSubtitle":"Completed 5/13 papers",
+            "icon" : {
+                "src": "images/education/acca.png"
+            }
+        },
+        {
+            "title": "2017 - 2021",
+            "cardTitle": "Bachelor of Business Administration - Finance and Accounting",
+            "cardSubtitle":"University of Economics HCM City",
+            "icon" : {
+                "src": "images/education/ueh.png"
+            }
+        }
+    ]
+}

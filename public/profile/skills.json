@@ -1,0 +1,51 @@
+{
+    "intro": "",
+    "skills": [{
+     
+            "title": "Soft Skills",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/time-management.png",
+                    "title": "Time Management"
+                },
+                {
+                    "icon": "images/skills/ratio-analysis.png",
+                    "title": "Ratio Analysis"
+                },
+                {
+                    "icon": "images/skills/teamwork.png",
+                    "title": "Teamwork"
+                },
+                 {
+                    "icon": "images/skills/critical-thinking.png",
+                    "title": "Critical Thinking"
+                },
+                {
+                    "icon": "images/skills/learning-agility.png",
+                    "title": "Learning Agility"
+                },
+                {
+                    "icon": "images/skills/multitasking.png",
+                    "title": "Multi-tasking"
+                }
+        ]},
+        {
+            "title": "Software",
+            "items" : [
+                {
+                    "icon": "images/skills/word.png",
+                    "title": "Microsoft Word"
+                },
+                {
+                    "icon": "images/skills/excel.png",
+                    "title": "Microsoft Excel"
+                },
+                {
+                    "icon": "images/skills/powerpoint.png",
+                    "title": "Microsoft Powerpoint"
+                }
+            ]
+        }
+        
+]}

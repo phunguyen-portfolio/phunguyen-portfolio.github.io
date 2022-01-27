@@ -1,0 +1,24 @@
+{
+    "projects" : [
+        {
+           "image" : "images/projects/letsdoittt.png",
+            "title": "letsdoittt",
+            "bodyText": "- A simple task management app\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/andyj29/nestjs-backend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://letsdoittt.herokuapp.com/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "NestJS",
+                "PostgreSQL"
+            ]
+        }
+    ]
+}
